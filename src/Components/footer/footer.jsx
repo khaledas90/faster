@@ -117,7 +117,7 @@ export default function Footer() {
               <p className="m-0 text-white">
                 &copy; <a href="https://khaled.com">Faster</a>. All Rights
                 Reserved.
-                <a href="https://khaled.com">Khaled Ahmed</a>
+                <a href="https://github.com/khaledas90/">Khaled Ahmed</a>
               </p>
             </div>
             <div className="col-lg-6 text-center text-md-right">
